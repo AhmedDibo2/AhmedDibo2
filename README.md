@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Ahmed Diab</h1>
 <p align="center">
-  🧑‍🎓 First-year CS student | 🚀 Future ML Engineer
+  🧑‍🎓 Second-year CS student | 🚀 Future ML Engineer
 </p>
 
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently learning **Machine Learning**, **Python**, and **Digital Logic**
+- 🔭 I’m currently learning **Machine Learning**, **Python**
 - 💡 Interested in open-source, AI, and problem-solving
 - 🛠️ Building my knowledge step by step — with passion and patience
 
